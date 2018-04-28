@@ -1,0 +1,201 @@
+bookId,title,genre
+1,Cinco Semanas en Globo,Adventure
+2,El caballero de Harmental,Adventure
+3,El cerro de los Elfos,Youth
+4,La Edad de Oro,Poetry
+5,Poemas en Prosa,Poetry
+6,Las Crónicas de Narnia IV: La silla de plata,Adventure
+7,Las Crónicas de Narnia V: El caballo y el muchacho,Adventure
+8,Poetry Completa,Poetry
+9,ARRUGAS,Comics
+10,EL HOBBIT,Comics
+11,TINTÍN Y EL SECRETO DEL UNICORNIO. Las Adventures de Tintín,Comics
+12,ASTÉRIX Y CLEOPATRA,Comics
+13,ASTÉRIX EN HISPANIA,Comics
+14,El Gato con Botas,Youth
+15,Centurias,Classics
+16,La Eneida (en verso),Poetry
+17,La vuelta de Martín Fierro,Poetry
+18,Poemas,Poetry
+19,Poemas (Varios),Poetry
+20,El doncel de Don Enrique el Doliente,Classics
+21,El Evangelio según San Mateo,Classics
+22,El matadero,Classics
+23,Hamlet,Classics
+24,Youth ia,Classics
+25,La Vida del Lazarillo de Tormes,Classics
+26,Las Mil y Una Noches,Classics
+27,A Buen Fin no hay Mal Principio,Theater
+28,A secreto agravio secreta venganza,Theater
+29,Hansel y Gretel,Youth
+30,Hombrecitos,Youth
+31,El Sr de los Anillos I - La comunidad del Anillo,Adventure
+32,El Sr de los Anillos II - Las Dos Torres,Adventure
+33,La Cenicienta,Youth
+34,El Sr de los Anillos III - El Retorno del Rey,Adventure
+35,Los Tres Mosqueteros,Adventure
+36,Los viajes de Gulliver,Adventure
+37,Tarzán de los monos,Adventure
+38,El Viudo Turmore,Terror
+39,Bodas de Sangre,Theater
+40,Boris Godunov,Theater
+41,El alcalde de Zalamea,Theater
+42,El Amor Enamorado,Theater
+43,Alicia en el país de las maravillas,Youth
+44,Barba Azul,Youth
+45,Blancanieves,Youth
+46,Caperucita Roja,Youth
+47,El Camino de Francia - Tomo I,Adventure
+48,Las crónicas de Narnia I: El león la bruja y el ropero,Adventure
+49,Cantar de Mio Cid,Classics
+50,Colmillo Blanco,Youth
+51,Cuentos de la Selva,Youth
+52,Dos Años de Vacaciones,Youth
+53,El Hobbit,Youth
+54,El jardín del Edén,Youth
+55,El patito feo,Youth
+56,El Principe y el Mendigo,Youth
+57,El ruiseñor,Youth
+58,Fouche el Genio Tenebroso,Youth
+59,Arena,ScienceFiction
+60,Cuentos de ScienceFiction,ScienceFiction
+61,La guerra de los mundos,ScienceFiction
+62,Marciano vete a casa,ScienceFiction
+63,Universo de locos,ScienceFiction
+64,Altazor,Poetry
+65,Armonías de la Pampa,Poetry
+66,Auto de los Reyes Magos,Poetry
+67,Azul,Poetry
+68,Canto a la Argentina,Poetry
+69,Canto General,Poetry
+70,Poetrys,Poetry
+71,Poetrys (Varias),Poetry
+72,Poetrys Completas,Poetry
+73,Cantos de Vida y Esperanza,Poetry
+74,Consolación a Helvia,Poetry
+75,El Berlín 1961: Lugar más peligroso del mundo,History
+76,Bestias nazis: Los verdugos de las SS,History
+77,Breve historia de Inglaterra,History
+78,Breve historia de la Inquisición en España,History
+79,Breve historia de los Austrias: LA APASIONANTE HISTORIA DEL IMPERIO ESPAÑOL BAJO LA DINASTÍA DE LOS AUSTRIAS. DE,History
+80,Breviario del odio: El tercer reich y los judíos.,History
+81,De la Gracia y la Dignidad,Poetry
+82,El gaucho Martín Fierro,Poetry
+83,El Libro de las Preguntas,Poetry
+84,Elegías de Duino,Poetry
+85,Fábula de Polifemo y Galatea,Poetry
+86,Fausto,Poetry
+87,Viaje al centro de la tierra,Adventure
+88,Las Profecías de Nostradamus,Classics
+89,Madame Bovary,Classics
+90,Robin Hood,Classics
+91,Romeo y Julieta,Classics
+92,EL CASTILLO DE CRISTAL,Narrative
+93,MARTES CON MI VIEJO PROFESOR,Narrative
+94,NO SIN MI HIJA,Narrative
+95,EL TERCER OJO,Narrative
+96,PAULA,Narrative
+97,CARTA AL PADRE,Narrative
+98,La Araucana I,Poetry
+99,La Araucana II,Poetry
+100,La edad del plomo vol II: Invierno eterno.,Adventure
+101,Harry Potter y el legado maldito,Adventure
+102,Navidades suicidas,Adventure
+103,La Araucana III,Poetry
+104,La Divina Comedia,Poetry
+105,Poetrys,Poetry
+106,Las Crónicas de Narnia II: El príncipe Caspian,Adventure
+107,Las Crónicas de Narnia III: La travesía del explorador del amanecer,Adventure
+108,La Vuelta al Mundo en 80 Días,Adventure
+109,Las Adventures de Robinson Crusoe,Adventure
+110,Las Crónicas de Narnia VI: El sobrino del mago,Adventure
+111,Las Crónicas de Narnia VII: La última batalla,Adventure
+112,En las Montañas de la Locura,Terror
+113,La hermosa vampirizada,Terror
+114,La Llave de Plata,Terror
+115,La Partida de Ajedrez,Terror
+116,Las Adventures de Arthur Gordon Pym,Terror
+117,Ligeia,Terror
+118,Los Sueños en la Casa de la Bruja,Terror
+119,Mi Crimen Favorito,Terror
+120,Polaris,Terror
+121,Aceite de Perro,Terror
+122,Berenice,Terror
+123,Chickamauga,Terror
+124,Diez Negritos,Terror
+125,El Color Surgido del Espacio,Terror
+126,El Cuervo,Terror
+127,El Escarabajo de Oro,Terror
+128,El Gato Negro,Terror
+129,El Guardavías,Terror
+130,El Hipnotizador,Terror
+131,TODO MAFALDA AMPLIADO,Comics
+132,ABSOLUTE WATCHMEN,Comics
+133,WATCHMEN,Comics
+134,MAUS,Comics
+135,BATMAN: La broma asesina,Comics
+136,V DE VENDETTA,Comics
+137,PERSÉPOLIS,Comics
+138,BATMAN EL REGRESO DEL CABALLERO OSCURO,Comics
+139,FROM HELL,Comics
+140,MILLENIUM Nº 01 LOS HOMBRES QUE NO AMABAN A LAS MUJERES,Comics
+141,300,Comics
+142,ASTERIX Y LOS GODOS,Comics
+143,ASTÉRIX EN BRETAÑA,Comics
+144,Bajo el signo de la esvástica: Cómo se vive en los países de régimen fascista,History
+145,IMPERIOFOBIA Y LA LEYENDA NEGRA,History
+146,La Caida de los dioses,History
+147,El Canto del pueblo judío asesinado,History
+148,Carmilla: Historia de vampiros,History
+149,El Cielo es azul la tierra blanca: Una historia de amor,History
+150,Ciudadanía soberanía monárquica y caballería,History
+151,El Camino de Francia - Tomo II,Adventure
+152,PYONGYANG,Comics
+153,ASTÉRIX EL GALO,Comics
+154,EL JINETE DE BRONCE,Romantica
+155,FORASTERA,Romantica
+156,YO ANTES DE TI,Romantica
+157,PERSUASIÓN,Romantica
+158,LAS VÍRGENES DEL PARAÍSO,Romantica
+159,El secreto de la lis y el clavel,Adventure
+160,EL CUADERNO DE NOAH,Romantica
+161,EXPIACIÓN,Romantica
+162,BAJO EL SOL DE KENIA,Romantica
+163,JUNTOS NADA MAS,Romantica
+164,POSDATA: TE QUIERO (TE AMO),Romantica
+165,LAS RANAS TAMBIÉN SE ENAMORAN,Romantica
+166,LOLITA,Romantica
+167,PÍDEME LO QUE QUIERAS AHORA Y SIEMPRE,Romantica
+168,PÍDEME LO QUE QUIERAS O DÉJAME,Romantica
+169,UN TIPO ENCANTADOR,Romantica
+170,EL MUNDO DE AYER: Memorias de un europeo,Narrative
+171,La Llamada de la Selva,Youth
+172,La piedra filosofal,Youth
+173,Barranca Abajo,Theater
+174,Las Minas del Rey Salomón,Adventure
+175,La Era de la revolución: 1789-1848,History
+176,OPEN: MEMORIAS,Narrative
+177,"CIEN AÑOS DE SOLEDAD" Y UN HOMENAJE. Discursos de Gabriel García Márquez y Carlos Fuentes,Narrative
+178,EL LIBRO DE LOS ABRAZOS,Narrative
+179,INSTRUMENTAL. Memorias de música medicina y locura,Narrative
+180,STEVE JOBS. La biografía,Narrative
+181,CONFIESO QUE HE VIVIDO,Narrative
+182,MIENTRAS ESCRIBO,Narrative
+183,LAS CENIZAS DE ÁNGELA,Narrative
+184,EL PODER DEL AHORA. Una guía para la iluminación espiritual,Narrative
+185,EL DIARIO DE UNA ADOLESCENTE (ANA FRANK),Narrative
+186,FACTOTUM,Narrative
+187,DIARIO DE INVIERNO,Narrative
+188,EL DIARIO DE ANA FRANK,Narrative
+189,Momentos estelares de la humanidad: Catorce miniaturas históricas,History
+190,Libro más peligroso El: Germania de tácito la. del imperio romano al tercer reich,History
+191,Bestias nazis: Los verdugos de las SS,History
+192,Armas gérmenes y acero: Breve historia de la humanidad en los últimos trece mil años,History
+193,1688: La primera revolución moderna,History
+194,España contemporánea (1814-1953),History
+195,La Crisis mundial 1911-1918,History
+196,History del siglo XX: Historia del mundo contemporáneo,History
+197,La disputa de los caídos,Adventure
+198,La edad del plomo vol I: La fortaleza al borde del tiempo.,Adventure
+199,Seindia,Adventure
+200,La Ciudad de los Hombres Santos. Los buscadores 3,Adventure
