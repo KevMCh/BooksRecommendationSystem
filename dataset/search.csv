@@ -1,0 +1,201 @@
+"","bookId","title","Adventure","Romantica","Youth","History","Narrative","Theater","Comics","Terror","Poetry","Classics","ScienceFiction"
+"1",1,"Cinco Semanas en Globo",1,0,0,0,0,0,0,0,0,0,0
+"2",2,"El caballero de Harmental",1,0,0,0,0,0,0,0,0,0,0
+"3",3,"El cerro de los Elfos",0,0,1,0,0,0,0,0,0,0,0
+"4",4,"La Edad de Oro",0,0,0,0,0,0,0,0,1,0,0
+"5",5,"Poemas en Prosa",0,0,0,0,0,0,0,0,1,0,0
+"6",6,"Las Crónicas de Narnia IV: La silla de plata",1,0,0,0,0,0,0,0,0,0,0
+"7",7,"Las Crónicas de Narnia V: El caballo y el muchacho",1,0,0,0,0,0,0,0,0,0,0
+"8",8,"Poetry Completa",0,0,0,0,0,0,0,0,1,0,0
+"9",9,"ARRUGAS",0,0,0,0,0,0,1,0,0,0,0
+"10",10,"EL HOBBIT",0,0,0,0,0,0,1,0,0,0,0
+"11",11,"TINTÍN Y EL SECRETO DEL UNICORNIO. Las Adventures de Tintín",0,0,0,0,0,0,1,0,0,0,0
+"12",12,"ASTÉRIX Y CLEOPATRA",0,0,0,0,0,0,1,0,0,0,0
+"13",13,"ASTÉRIX EN HISPANIA",0,0,0,0,0,0,1,0,0,0,0
+"14",14,"El Gato con Botas",0,0,1,0,0,0,0,0,0,0,0
+"15",15,"Centurias",0,0,0,0,0,0,0,0,0,1,0
+"16",16,"La Eneida (en verso)",0,0,0,0,0,0,0,0,1,0,0
+"17",17,"La vuelta de Martín Fierro",0,0,0,0,0,0,0,0,1,0,0
+"18",18,"Poemas",0,0,0,0,0,0,0,0,1,0,0
+"19",19,"Poemas (Varios)",0,0,0,0,0,0,0,0,1,0,0
+"20",20,"El doncel de Don Enrique el Doliente",0,0,0,0,0,0,0,0,0,1,0
+"21",21,"El Evangelio según San Mateo",0,0,0,0,0,0,0,0,0,1,0
+"22",22,"El matadero",0,0,0,0,0,0,0,0,0,1,0
+"23",23,"Hamlet",0,0,0,0,0,0,0,0,0,1,0
+"24",24,"Youth ia",0,0,0,0,0,0,0,0,0,1,0
+"25",25,"La Vida del Lazarillo de Tormes",0,0,0,0,0,0,0,0,0,1,0
+"26",26,"Las Mil y Una Noches",0,0,0,0,0,0,0,0,0,1,0
+"27",27,"A Buen Fin no hay Mal Principio",0,0,0,0,0,1,0,0,0,0,0
+"28",28,"A secreto agravio secreta venganza",0,0,0,0,0,1,0,0,0,0,0
+"29",29,"Hansel y Gretel",0,0,1,0,0,0,0,0,0,0,0
+"30",30,"Hombrecitos",0,0,1,0,0,0,0,0,0,0,0
+"31",31,"El Sr de los Anillos I - La comunidad del Anillo",1,0,0,0,0,0,0,0,0,0,0
+"32",32,"El Sr de los Anillos II - Las Dos Torres",1,0,0,0,0,0,0,0,0,0,0
+"33",33,"La Cenicienta",0,0,1,0,0,0,0,0,0,0,0
+"34",34,"El Sr de los Anillos III - El Retorno del Rey",1,0,0,0,0,0,0,0,0,0,0
+"35",35,"Los Tres Mosqueteros",1,0,0,0,0,0,0,0,0,0,0
+"36",36,"Los viajes de Gulliver",1,0,0,0,0,0,0,0,0,0,0
+"37",37,"Tarzán de los monos",1,0,0,0,0,0,0,0,0,0,0
+"38",38,"El Viudo Turmore",0,0,0,0,0,0,0,1,0,0,0
+"39",39,"Bodas de Sangre",0,0,0,0,0,1,0,0,0,0,0
+"40",40,"Boris Godunov",0,0,0,0,0,1,0,0,0,0,0
+"41",41,"El alcalde de Zalamea",0,0,0,0,0,1,0,0,0,0,0
+"42",42,"El Amor Enamorado",0,0,0,0,0,1,0,0,0,0,0
+"43",43,"Alicia en el país de las maravillas",0,0,1,0,0,0,0,0,0,0,0
+"44",44,"Barba Azul",0,0,1,0,0,0,0,0,0,0,0
+"45",45,"Blancanieves",0,0,1,0,0,0,0,0,0,0,0
+"46",46,"Caperucita Roja",0,0,1,0,0,0,0,0,0,0,0
+"47",47,"El Camino de Francia - Tomo I",1,0,0,0,0,0,0,0,0,0,0
+"48",48,"Las crónicas de Narnia I: El león la bruja y el ropero",1,0,0,0,0,0,0,0,0,0,0
+"49",49,"Cantar de Mio Cid",0,0,0,0,0,0,0,0,0,1,0
+"50",50,"Colmillo Blanco",0,0,1,0,0,0,0,0,0,0,0
+"51",51,"Cuentos de la Selva",0,0,1,0,0,0,0,0,0,0,0
+"52",52,"Dos Años de Vacaciones",0,0,1,0,0,0,0,0,0,0,0
+"53",53,"El Hobbit",0,0,1,0,0,0,0,0,0,0,0
+"54",54,"El jardín del Edén",0,0,1,0,0,0,0,0,0,0,0
+"55",55,"El patito feo",0,0,1,0,0,0,0,0,0,0,0
+"56",56,"El Principe y el Mendigo",0,0,1,0,0,0,0,0,0,0,0
+"57",57,"El ruiseñor",0,0,1,0,0,0,0,0,0,0,0
+"58",58,"Fouche el Genio Tenebroso",0,0,1,0,0,0,0,0,0,0,0
+"59",59,"Arena",0,0,0,0,0,0,0,0,0,0,1
+"60",60,"Cuentos de ScienceFiction",0,0,0,0,0,0,0,0,0,0,1
+"61",61,"La guerra de los mundos",0,0,0,0,0,0,0,0,0,0,1
+"62",62,"Marciano vete a casa",0,0,0,0,0,0,0,0,0,0,1
+"63",63,"Universo de locos",0,0,0,0,0,0,0,0,0,0,1
+"64",64,"Altazor",0,0,0,0,0,0,0,0,1,0,0
+"65",65,"Armonías de la Pampa",0,0,0,0,0,0,0,0,1,0,0
+"66",66,"Auto de los Reyes Magos",0,0,0,0,0,0,0,0,1,0,0
+"67",67,"Azul",0,0,0,0,0,0,0,0,1,0,0
+"68",68,"Canto a la Argentina",0,0,0,0,0,0,0,0,1,0,0
+"69",69,"Canto General",0,0,0,0,0,0,0,0,1,0,0
+"70",70,"Poetrys",0,0,0,0,0,0,0,0,1,0,0
+"71",71,"Poetrys (Varias)",0,0,0,0,0,0,0,0,1,0,0
+"72",72,"Poetrys Completas",0,0,0,0,0,0,0,0,1,0,0
+"73",73,"Cantos de Vida y Esperanza",0,0,0,0,0,0,0,0,1,0,0
+"74",74,"Consolación a Helvia",0,0,0,0,0,0,0,0,1,0,0
+"75",75,"El Berlín 1961: Lugar más peligroso del mundo",0,0,0,1,0,0,0,0,0,0,0
+"76",76,"Bestias nazis: Los verdugos de las SS",0,0,0,1,0,0,0,0,0,0,0
+"77",77,"Breve historia de Inglaterra",0,0,0,1,0,0,0,0,0,0,0
+"78",78,"Breve historia de la Inquisición en España",0,0,0,1,0,0,0,0,0,0,0
+"79",79,"Breve historia de los Austrias: LA APASIONANTE HISTORIA DEL IMPERIO ESPAÑOL BAJO LA DINASTÍA DE LOS AUSTRIAS. DE",0,0,0,1,0,0,0,0,0,0,0
+"80",80,"Breviario del odio: El tercer reich y los judíos.",0,0,0,1,0,0,0,0,0,0,0
+"81",81,"De la Gracia y la Dignidad",0,0,0,0,0,0,0,0,1,0,0
+"82",82,"El gaucho Martín Fierro",0,0,0,0,0,0,0,0,1,0,0
+"83",83,"El Libro de las Preguntas",0,0,0,0,0,0,0,0,1,0,0
+"84",84,"Elegías de Duino",0,0,0,0,0,0,0,0,1,0,0
+"85",85,"Fábula de Polifemo y Galatea",0,0,0,0,0,0,0,0,1,0,0
+"86",86,"Fausto",0,0,0,0,0,0,0,0,1,0,0
+"87",87,"Viaje al centro de la tierra",1,0,0,0,0,0,0,0,0,0,0
+"88",88,"Las Profecías de Nostradamus",0,0,0,0,0,0,0,0,0,1,0
+"89",89,"Madame Bovary",0,0,0,0,0,0,0,0,0,1,0
+"90",90,"Robin Hood",0,0,0,0,0,0,0,0,0,1,0
+"91",91,"Romeo y Julieta",0,0,0,0,0,0,0,0,0,1,0
+"92",92,"EL CASTILLO DE CRISTAL",0,0,0,0,1,0,0,0,0,0,0
+"93",93,"MARTES CON MI VIEJO PROFESOR",0,0,0,0,1,0,0,0,0,0,0
+"94",94,"NO SIN MI HIJA",0,0,0,0,1,0,0,0,0,0,0
+"95",95,"EL TERCER OJO",0,0,0,0,1,0,0,0,0,0,0
+"96",96,"PAULA",0,0,0,0,1,0,0,0,0,0,0
+"97",97,"CARTA AL PADRE",0,0,0,0,1,0,0,0,0,0,0
+"98",98,"La Araucana I",0,0,0,0,0,0,0,0,1,0,0
+"99",99,"La Araucana II",0,0,0,0,0,0,0,0,1,0,0
+"100",100,"La edad del plomo vol II: Invierno eterno.",1,0,0,0,0,0,0,0,0,0,0
+"101",101,"Harry Potter y el legado maldito",1,0,0,0,0,0,0,0,0,0,0
+"102",102,"Navidades suicidas",1,0,0,0,0,0,0,0,0,0,0
+"103",103,"La Araucana III",0,0,0,0,0,0,0,0,1,0,0
+"104",104,"La Divina Comedia",0,0,0,0,0,0,0,0,1,0,0
+"105",105,"Poetrys",0,0,0,0,0,0,0,0,1,0,0
+"106",106,"Las Crónicas de Narnia II: El príncipe Caspian",1,0,0,0,0,0,0,0,0,0,0
+"107",107,"Las Crónicas de Narnia III: La travesía del explorador del amanecer",1,0,0,0,0,0,0,0,0,0,0
+"108",108,"La Vuelta al Mundo en 80 Días",1,0,0,0,0,0,0,0,0,0,0
+"109",109,"Las Adventures de Robinson Crusoe",1,0,0,0,0,0,0,0,0,0,0
+"110",110,"Las Crónicas de Narnia VI: El sobrino del mago",1,0,0,0,0,0,0,0,0,0,0
+"111",111,"Las Crónicas de Narnia VII: La última batalla",1,0,0,0,0,0,0,0,0,0,0
+"112",112,"En las Montañas de la Locura",0,0,0,0,0,0,0,1,0,0,0
+"113",113,"La hermosa vampirizada",0,0,0,0,0,0,0,1,0,0,0
+"114",114,"La Llave de Plata",0,0,0,0,0,0,0,1,0,0,0
+"115",115,"La Partida de Ajedrez",0,0,0,0,0,0,0,1,0,0,0
+"116",116,"Las Adventures de Arthur Gordon Pym",0,0,0,0,0,0,0,1,0,0,0
+"117",117,"Ligeia",0,0,0,0,0,0,0,1,0,0,0
+"118",118,"Los Sueños en la Casa de la Bruja",0,0,0,0,0,0,0,1,0,0,0
+"119",119,"Mi Crimen Favorito",0,0,0,0,0,0,0,1,0,0,0
+"120",120,"Polaris",0,0,0,0,0,0,0,1,0,0,0
+"121",121,"Aceite de Perro",0,0,0,0,0,0,0,1,0,0,0
+"122",122,"Berenice",0,0,0,0,0,0,0,1,0,0,0
+"123",123,"Chickamauga",0,0,0,0,0,0,0,1,0,0,0
+"124",124,"Diez Negritos",0,0,0,0,0,0,0,1,0,0,0
+"125",125,"El Color Surgido del Espacio",0,0,0,0,0,0,0,1,0,0,0
+"126",126,"El Cuervo",0,0,0,0,0,0,0,1,0,0,0
+"127",127,"El Escarabajo de Oro",0,0,0,0,0,0,0,1,0,0,0
+"128",128,"El Gato Negro",0,0,0,0,0,0,0,1,0,0,0
+"129",129,"El Guardavías",0,0,0,0,0,0,0,1,0,0,0
+"130",130,"El Hipnotizador",0,0,0,0,0,0,0,1,0,0,0
+"131",131,"TODO MAFALDA AMPLIADO",0,0,0,0,0,0,1,0,0,0,0
+"132",132,"ABSOLUTE WATCHMEN",0,0,0,0,0,0,1,0,0,0,0
+"133",133,"WATCHMEN",0,0,0,0,0,0,1,0,0,0,0
+"134",134,"MAUS",0,0,0,0,0,0,1,0,0,0,0
+"135",135,"BATMAN: La broma asesina",0,0,0,0,0,0,1,0,0,0,0
+"136",136,"V DE VENDETTA",0,0,0,0,0,0,1,0,0,0,0
+"137",137,"PERSÉPOLIS",0,0,0,0,0,0,1,0,0,0,0
+"138",138,"BATMAN EL REGRESO DEL CABALLERO OSCURO",0,0,0,0,0,0,1,0,0,0,0
+"139",139,"FROM HELL",0,0,0,0,0,0,1,0,0,0,0
+"140",140,"MILLENIUM Nº 01 LOS HOMBRES QUE NO AMABAN A LAS MUJERES",0,0,0,0,0,0,1,0,0,0,0
+"141",141,"300",0,0,0,0,0,0,1,0,0,0,0
+"142",142,"ASTERIX Y LOS GODOS",0,0,0,0,0,0,1,0,0,0,0
+"143",143,"ASTÉRIX EN BRETAÑA",0,0,0,0,0,0,1,0,0,0,0
+"144",144,"Bajo el signo de la esvástica: Cómo se vive en los países de régimen fascista",0,0,0,1,0,0,0,0,0,0,0
+"145",145,"IMPERIOFOBIA Y LA LEYENDA NEGRA",0,0,0,1,0,0,0,0,0,0,0
+"146",146,"La Caida de los dioses",0,0,0,1,0,0,0,0,0,0,0
+"147",147,"El Canto del pueblo judío asesinado",0,0,0,1,0,0,0,0,0,0,0
+"148",148,"Carmilla: Historia de vampiros",0,0,0,1,0,0,0,0,0,0,0
+"149",149,"El Cielo es azul la tierra blanca: Una historia de amor",0,0,0,1,0,0,0,0,0,0,0
+"150",150,"Ciudadanía soberanía monárquica y caballería",0,0,0,1,0,0,0,0,0,0,0
+"151",151,"El Camino de Francia - Tomo II",1,0,0,0,0,0,0,0,0,0,0
+"152",152,"PYONGYANG",0,0,0,0,0,0,1,0,0,0,0
+"153",153,"ASTÉRIX EL GALO",0,0,0,0,0,0,1,0,0,0,0
+"154",154,"EL JINETE DE BRONCE",0,1,0,0,0,0,0,0,0,0,0
+"155",155,"FORASTERA",0,1,0,0,0,0,0,0,0,0,0
+"156",156,"YO ANTES DE TI",0,1,0,0,0,0,0,0,0,0,0
+"157",157,"PERSUASIÓN",0,1,0,0,0,0,0,0,0,0,0
+"158",158,"LAS VÍRGENES DEL PARAÍSO",0,1,0,0,0,0,0,0,0,0,0
+"159",159,"El secreto de la lis y el clavel",1,0,0,0,0,0,0,0,0,0,0
+"160",160,"EL CUADERNO DE NOAH",0,1,0,0,0,0,0,0,0,0,0
+"161",161,"EXPIACIÓN",0,1,0,0,0,0,0,0,0,0,0
+"162",162,"BAJO EL SOL DE KENIA",0,1,0,0,0,0,0,0,0,0,0
+"163",163,"JUNTOS NADA MAS",0,1,0,0,0,0,0,0,0,0,0
+"164",164,"POSDATA: TE QUIERO (TE AMO)",0,1,0,0,0,0,0,0,0,0,0
+"165",165,"LAS RANAS TAMBIÉN SE ENAMORAN",0,1,0,0,0,0,0,0,0,0,0
+"166",166,"LOLITA",0,1,0,0,0,0,0,0,0,0,0
+"167",167,"PÍDEME LO QUE QUIERAS AHORA Y SIEMPRE",0,1,0,0,0,0,0,0,0,0,0
+"168",168,"PÍDEME LO QUE QUIERAS O DÉJAME",0,1,0,0,0,0,0,0,0,0,0
+"169",169,"UN TIPO ENCANTADOR",0,1,0,0,0,0,0,0,0,0,0
+"170",170,"EL MUNDO DE AYER: Memorias de un europeo",0,0,0,0,1,0,0,0,0,0,0
+"171",171,"La Llamada de la Selva",0,0,1,0,0,0,0,0,0,0,0
+"172",172,"La piedra filosofal",0,0,1,0,0,0,0,0,0,0,0
+"173",173,"Barranca Abajo",0,0,0,0,0,1,0,0,0,0,0
+"174",174,"Las Minas del Rey Salomón",1,0,0,0,0,0,0,0,0,0,0
+"175",175,"La Era de la revolución: 1789-1848",0,0,0,1,0,0,0,0,0,0,0
+"176",176,"OPEN: MEMORIAS",0,0,0,0,1,0,0,0,0,0,0
+"177",177,"CIEN AÑOS DE SOLEDAD Y UN HOMENAJE. Discursos de Gabriel García Márquez y Carlos Fuentes",0,0,0,0,1,0,0,0,0,0,0
+"178",178,"EL LIBRO DE LOS ABRAZOS",0,0,0,0,1,0,0,0,0,0,0
+"179",179,"INSTRUMENTAL. Memorias de música medicina y locura",0,0,0,0,1,0,0,0,0,0,0
+"180",180,"STEVE JOBS. La biografía",0,0,0,0,1,0,0,0,0,0,0
+"181",181,"CONFIESO QUE HE VIVIDO",0,0,0,0,1,0,0,0,0,0,0
+"182",182,"MIENTRAS ESCRIBO",0,0,0,0,1,0,0,0,0,0,0
+"183",183,"LAS CENIZAS DE ÁNGELA",0,0,0,0,1,0,0,0,0,0,0
+"184",184,"EL PODER DEL AHORA. Una guía para la iluminación espiritual",0,0,0,0,1,0,0,0,0,0,0
+"185",185,"EL DIARIO DE UNA ADOLESCENTE (ANA FRANK)",0,0,0,0,1,0,0,0,0,0,0
+"186",186,"FACTOTUM",0,0,0,0,1,0,0,0,0,0,0
+"187",187,"DIARIO DE INVIERNO",0,0,0,0,1,0,0,0,0,0,0
+"188",188,"EL DIARIO DE ANA FRANK",0,0,0,0,1,0,0,0,0,0,0
+"189",189,"Momentos estelares de la humanidad: Catorce miniaturas históricas",0,0,0,1,0,0,0,0,0,0,0
+"190",190,"Libro más peligroso El: Germania de tácito la. del imperio romano al tercer reich",0,0,0,1,0,0,0,0,0,0,0
+"191",191,"Bestias nazis: Los verdugos de las SS",0,0,0,1,0,0,0,0,0,0,0
+"192",192,"Armas gérmenes y acero: Breve historia de la humanidad en los últimos trece mil años",0,0,0,1,0,0,0,0,0,0,0
+"193",193,"1688: La primera revolución moderna",0,0,0,1,0,0,0,0,0,0,0
+"194",194,"España contemporánea (1814-1953)",0,0,0,1,0,0,0,0,0,0,0
+"195",195,"La Crisis mundial 1911-1918",0,0,0,1,0,0,0,0,0,0,0
+"196",196,"History del siglo XX: Historia del mundo contemporáneo",0,0,0,1,0,0,0,0,0,0,0
+"197",197,"La disputa de los caídos",1,0,0,0,0,0,0,0,0,0,0
+"198",198,"La edad del plomo vol I: La fortaleza al borde del tiempo.",1,0,0,0,0,0,0,0,0,0,0
+"199",199,"Seindia",1,0,0,0,0,0,0,0,0,0,0
+"200",200,"La Ciudad de los Hombres Santos. Los buscadores 3",1,0,0,0,0,0,0,0,0,0,0
