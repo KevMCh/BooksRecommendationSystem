@@ -10,7 +10,7 @@ It's simple, run the [PreprocessedData.R](https://github.com/KevMCh/BookRecommen
 
 #### Example
 
-You can test it [here](https://kevmch.shinyapps.io/BookRecommendationSystem).
+You can test it [here](https://kevmch.shinyapps.io/BooksRecommendationSystem).
 
 #### Tools:
   * [RStudio](https://www.rstudio.com/)

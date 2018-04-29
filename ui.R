@@ -1,5 +1,8 @@
+library(markdown)
+
 # List of genres
-genreList <- c("Adventure",
+genreList <- c("",
+               "Adventure",
                "Romantica",
                "Youth",
                "History",
@@ -10,7 +13,7 @@ genreList <- c("Adventure",
                "Poetry",
                "Classics",
                "ScienceFiction"
-               )
+)
 
 shinyUI(htmlTemplate(
   "www/startbootstrap-freelancer-gh-pages/index.html",
@@ -30,16 +33,17 @@ shinyUI(htmlTemplate(
           3,
           h3("Select Book Genres You Prefer:"),
           wellPanel(
-            selectInput("inputGenre", "Genre",
+            selectInput("inputGenre", "Genre:",
                         genreList)
           )
         ),
-          
+        
         column(
           6,
           h3("Select Books You Like of these Genres:"),
           wellPanel(
-            uiOutput("ui")
+            selectInput("inputBooks", "Book of Genre:",
+                        c())
           )
         ),
         
@@ -47,7 +51,7 @@ shinyUI(htmlTemplate(
           3,
           img(src="images/books.jpg", width="50%")
         ),
-          
+        
         column(
           12,
           h3("Recommended books:"),
