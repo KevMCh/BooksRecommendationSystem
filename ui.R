@@ -54,6 +54,11 @@ shinyUI(htmlTemplate(
         
         column(
           12,
+          hr()
+        ),
+        
+        column(
+          12,
           h3("Recommended books:"),
           tableOutput("table")
         )

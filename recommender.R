@@ -48,7 +48,7 @@ bookRecommendation <- function(input) {
         subset(books, books$bookId == as.integer(recomList[[1]][i + 1]))$title
       )
       
-      maxScore = maxScore()
+      maxScore = max(booksScores$Score)
       recomResult[i,2] <- as.character(
         subset(booksScores, booksScores$bookId == as.integer(recomList[[1]][i + 1]))$Score / maxScore * 10 / 2
       )
@@ -58,17 +58,4 @@ bookRecommendation <- function(input) {
     colnames(recomResult) <- colName
     return(recomResult)
   }
-}
-
-# Function to get the maximun score of the books
-maxScore <- function() {
-  maxScore = booksScores[1, 2]
-  
-  for(i in 1:nrow(booksScores)){
-    if(maxScore < booksScores[i, 2]) {
-      maxScore = booksScores[i, 2]
-    }
-  }
-  
-  return(maxScore)
 }
