@@ -1,7 +1,7 @@
 library(markdown)
 
 # List of genres
-genreList <- c("",
+GENRE.LIST <- c("",
                "Adventure",
                "Romantica",
                "Youth",
@@ -34,7 +34,7 @@ shinyUI(htmlTemplate(
           h3("Select Book Genres You Prefer:"),
           wellPanel(
             selectInput("inputGenre", "Genre:",
-                        genreList)
+                        GENRE.LIST)
           )
         ),
         
