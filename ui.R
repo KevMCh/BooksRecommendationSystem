@@ -6,7 +6,7 @@ GENRE.LIST <- c("",
                "Romantica",
                "Youth",
                "History",
-               "Narrative", 
+               "Narrative",
                "Theater",
                "Comics",
                "Terror",
@@ -24,7 +24,7 @@ shinyUI(htmlTemplate(
       style = "margin-top: 30px",
       includeMarkdown('README.md')
     ),
-    
+
     tabPanel(
       "Recommender",
       style = "margin-top: 30px",
@@ -37,7 +37,7 @@ shinyUI(htmlTemplate(
                         GENRE.LIST)
           )
         ),
-        
+
         column(
           6,
           h3("Select Books You Like of these Genres:"),
@@ -46,17 +46,17 @@ shinyUI(htmlTemplate(
                         c())
           )
         ),
-        
+
         column(
           3,
           img(src="images/books.jpg", width="50%")
         ),
-        
+
         column(
           12,
           hr()
         ),
-        
+
         column(
           12,
           h3("Recommended books:"),
